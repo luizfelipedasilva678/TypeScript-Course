@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://TypeScript-Course/./src/webpack/index.ts"],"names":[],"mappings":";;;;;;AAAa;AACb","file":"bundle.js","sourcesContent":["\"use strict\";\nconsole.log('Olá');\n"],"sourceRoot":""}
