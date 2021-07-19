@@ -16,8 +16,8 @@ const pessoa: Pessoa = {
   salario: 15000,
 };
 
-export function setCorPreferida(pessoa: Pessoa, cor: corPreferida) {
+export function setCorPreferida(pessoa: Pessoa, cor: CorRGB) {
   return { ...pessoa, corPreferida: cor };
 }
 
-console.log(setCorPreferida(pessoa, ''));
+console.log(setCorPreferida(pessoa, 'Vermelho'));
